@@ -1,8 +1,10 @@
 ## Sentiment_Analysis_ver1.0_all.ipynb 
 
-Cloud link: https://hennypurwadi-sentiment-analysis-streamlit-app-xdpl7j.streamlitapp.com/
+Streamlit Cloud deployed: https://hennypurwadi-sentiment-analysis-streamlit-app-xdpl7j.streamlitapp.com/
 
-Dataset link:https://www.kaggle.com/datasets/d4rklucif3r/restaurant-reviews(base) 
+Github Link: https://github.com/hennypurwadi/Sentiment_Analysis
+
+Dataset link:https://www.kaggle.com/datasets/d4rklucif3r/restaurant-reviews
 
 ## Note:
 
